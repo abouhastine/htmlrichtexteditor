@@ -1,0 +1,1 @@
+A better alternative for standard richtexteditor from Flex 2/3 for Flex 3 and Adobe Air.
